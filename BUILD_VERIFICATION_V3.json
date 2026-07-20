@@ -1,0 +1,103 @@
+{
+  "version": "3.0",
+  "colour_system": {
+    "void": "#0a0e1a",
+    "voidMid": "#111827",
+    "voidSoft": "#1a2236",
+    "voidPanel": "#1e2a3a",
+    "border": "#243044",
+    "borderHigh": "#2d3d58",
+    "blue": "#0066ff",
+    "blueSoft": "#0a1f44",
+    "cyan": "#00d4ff",
+    "green": "#00e676",
+    "greenSoft": "#002a1a",
+    "amber": "#ffaa00",
+    "amberSoft": "#2a1f00",
+    "orange": "#ff6d00",
+    "orangeSoft": "#2a1500",
+    "red": "#ff1744",
+    "redSoft": "#2a0010",
+    "ice": "#e8f4fd",
+    "slate": "#8899aa",
+    "slateLight": "#aabbcc",
+    "white": "#ffffff"
+  },
+  "files": [
+    {
+      "name": "GENEVIEVE_MASTER_COMMAND_CENTRE_ORIGINAL_COLOUR_SYSTEM_V3.html",
+      "size": 1283673,
+      "sha256": "706d1ff4e23b937a95b7fe184b73d57a6f871c5b8e1287571c4d17ce98991536",
+      "pink_found": false,
+      "doctype": true
+    },
+    {
+      "name": "GENEVIEVE_POLICE_POPULATED_WORKING_DASHBOARD_V3.html",
+      "size": 1283174,
+      "sha256": "dcac2a3c9b61a85b2ad7061f813b1063bf0a54cd32b285253846cd39f0fac766",
+      "pink_found": false,
+      "doctype": true
+    },
+    {
+      "name": "GENEVIEVE_AMBULANCE_POPULATED_WORKING_DASHBOARD_V3.html",
+      "size": 1283099,
+      "sha256": "202a70174d1cd3c37cdf385acbfd7a27e17b323b40704c96e95799c67e203e84",
+      "pink_found": false,
+      "doctype": true
+    },
+    {
+      "name": "GENEVIEVE_SES_POPULATED_WORKING_DASHBOARD_V3.html",
+      "size": 1283079,
+      "sha256": "75c19cd14c26110473ea6fdb0ed8d0bfe14d5be5986f57a2993450aec9f4a5b7",
+      "pink_found": false,
+      "doctype": true
+    },
+    {
+      "name": "GENEVIEVE_FIRE_RESCUE_POPULATED_WORKING_DASHBOARD_V3.html",
+      "size": 1283129,
+      "sha256": "f7592c66336c4ddaf3b8ce87775b74135d5a0a66795013c6a5e2a9802389de75",
+      "pink_found": false,
+      "doctype": true
+    },
+    {
+      "name": "GENEVIEVE_ARMY_POPULATED_WORKING_DASHBOARD_V3.html",
+      "size": 1283173,
+      "sha256": "947c469a9ad32bb41779faa065a2b16c475b3b612511534d56369ad54163c666",
+      "pink_found": false,
+      "doctype": true
+    },
+    {
+      "name": "GENEVIEVE_NAVY_POPULATED_WORKING_DASHBOARD_V3.html",
+      "size": 1283124,
+      "sha256": "ee494f753df89076310606c72a09f5d7e36b91ef4d194a30a50792efca5f7722",
+      "pink_found": false,
+      "doctype": true
+    },
+    {
+      "name": "GENEVIEVE_AIR_FORCE_POPULATED_WORKING_DASHBOARD_V3.html",
+      "size": 1283185,
+      "sha256": "8cc88f11dc9b65d029e9215541eae24ee7044d293dc04814c916e131faf7cc4e",
+      "pink_found": false,
+      "doctype": true
+    },
+    {
+      "name": "GENEVIEVE_EOC_POPULATED_WORKING_DASHBOARD_V3.html",
+      "size": 1283033,
+      "sha256": "2e8d62f546f23769942920d7945f56c39b2b04811330336e43113fabcf3ab429",
+      "pink_found": false,
+      "doctype": true
+    },
+    {
+      "name": "GENEVIEVE_SURF_MARINE_POPULATED_WORKING_DASHBOARD_V3.html",
+      "size": 1283142,
+      "sha256": "5f1920985403565646f5d83aa649c8453f6f7ba18e26031bcea998aaf352e845",
+      "pink_found": false,
+      "doctype": true
+    }
+  ],
+  "checks": {
+    "pink_css_removed": true,
+    "master_signature_threat_ring": true,
+    "single_file_dashboards": true
+  }
+}
